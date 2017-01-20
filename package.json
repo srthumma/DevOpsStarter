@@ -1,0 +1,12 @@
+{
+  "name": "NodeStarter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "app"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.7.26",
+    "tcp-ping": "^0.1.1"
+  }
+}
