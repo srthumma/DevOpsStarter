@@ -8,7 +8,7 @@ var ec2 = new AWS.EC2({
     apiVersion: '2016-11-15'
 });
 
-var instanceInfo = require('data/aws_instance.json')
+var instanceInfo = require('data/awsInstanceInfo.json')
 
 console.log('Instance Info',instanceInfo) ;
 
