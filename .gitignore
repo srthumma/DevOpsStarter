@@ -38,3 +38,4 @@ jspm_packages
 
 # ignore local files
 local
+data
